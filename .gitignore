@@ -1,0 +1,7 @@
+venv/
+.venv/
+data/activations/*.pt
+models/checkpoints/*.pt
+__pycache__/
+*.pyc
+.DS_Store__pycache__/
